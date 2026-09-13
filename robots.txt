@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alfwalk.github.io/absolutely-electrical/sitemap.xml
